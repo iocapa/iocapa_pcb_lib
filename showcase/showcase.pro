@@ -1,4 +1,4 @@
-update=Du 02 oct 2016 15:08:21 +0300
+update=Du 02 oct 2016 15:15:22 +0300
 version=1
 last_client=kicad
 [pcbnew]
@@ -39,4 +39,4 @@ LabSize=60
 version=1
 LibDir=../lib
 [eeschema/libraries]
-LibName1=CaPaSchLib
+LibName1=iocapa
