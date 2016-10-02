@@ -1,4 +1,4 @@
-update=Du 02 oct 2016 14:17:12 +0300
+update=Du 02 oct 2016 15:08:21 +0300
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,11 +25,6 @@ version=1
 NetIExt=net
 [general]
 version=1
-[eeschema]
-version=1
-LibDir=
-[eeschema/libraries]
-LibName1=D:/Projects/iocapa_pcb_lib/lib/CaPaSchLib
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
@@ -40,3 +35,8 @@ NetFmtName=
 SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
 LabSize=60
+[eeschema]
+version=1
+LibDir=../lib
+[eeschema/libraries]
+LibName1=CaPaSchLib
